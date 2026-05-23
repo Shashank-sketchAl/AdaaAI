@@ -17,9 +17,9 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Lucknowi AI | Your Personal Ethnic Fashion Stylist from the City of Nawabs',
-  description: 'Experience the timeless elegance of Lucknowi fashion with AI-powered styling. Discover authentic Chikankari, Zardozi, and Awadhi heritage wear curated just for you. Pehle Aap!',
-  keywords: ['Lucknow fashion', 'Chikankari', 'Zardozi', 'ethnic wear', 'AI stylist', 'Indian fashion', 'Awadhi heritage', 'wedding wear'],
+  title: 'NazakatAI | लखनवी स्टाइलिस्ट - Your Lucknowi Fashion Assistant',
+  description: 'आदाब! Experience the नज़ाकत (elegance) of Lucknowi fashion with AI-powered styling. Discover authentic Chikankari, Zardozi, Mukaish, and Nawabi heritage wear from master karigars. पहले आप!',
+  keywords: ['Lucknow fashion', 'Chikankari', 'Zardozi', 'Mukaish', 'ethnic wear', 'AI stylist', 'Indian fashion', 'Nawabi heritage', 'karigar', 'bunkar', 'wedding wear', 'Lucknow'],
   generator: 'v0.app',
   icons: {
     icon: [
@@ -39,8 +39,8 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   openGraph: {
-    title: 'Lucknowi AI | Ethnic Fashion Stylist',
-    description: 'AI-powered styling for authentic Lucknowi fashion',
+    title: 'NazakatAI | लखनवी स्टाइलिस्ट',
+    description: 'AI-powered styling for authentic Lucknowi fashion - Chikankari, Zardozi, Mukaish from master karigars',
     type: 'website',
   },
 }
